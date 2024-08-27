@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Michael Jorxander, i have 3 user account , 1. suryayar12, 
-Yungz6717030156, Micjor221
-and mixed with the last one Micjor221
+Yungz6717030156 would my primary account Micjor221 
 
 - 👀 I’m interested in managing some project , configuring setup first please assist me
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning phpmyadmin, SqL database , themeplate
+- 💞️ I’m looking to collaborate on team and hopefully can get a new job and place to do
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
